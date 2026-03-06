@@ -1,0 +1,7 @@
+openai==0.28
+langchain
+google-search-results
+streamlit
+python-dotenv==0.21.0
+pypdf==3.8.1
+langchain_community
